@@ -1,0 +1,1 @@
+A comprehensive code for learning basics of hugging face. Tbhe notebooks include informations regarding various resources provided by huggingface not limited to calling api but expanded upto hyperparameter tuining for complex algorithms such as text summarization and langchain.
